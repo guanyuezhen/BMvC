@@ -14,11 +14,11 @@ This repository contains simple pytorch implementation of our paper [BMvC](https
 Illustration of balanced multi-view clustering (BMvC). The multi-view data are first processed through their encoders to extract view-specific latent features. Next, a fusion module aggregates the representations into a unified joint one, which is then used to reconstruct the multi-view data via view-specific decoders. Finally, the view-specific contrastive regularization (VCR) and feature reconstruction loss are employed to guide the optimization of the model. <br>
 
 ### 2. Usage
-+ BMVC is tailored for small to medium-sized multi-view clustering datasets.
++ BMvC is tailored for small to medium-sized multi-view clustering datasets.
 
-+ BMVC-large is designed for large-scale multi-view clustering datasets using a mini-batch approach.
++ BMvC-large is designed for large-scale multi-view clustering datasets using a mini-batch approach.
 
-+ BMVC-ST is specifically designed for clustering tasks in spatially resolved transcriptomics data.
++ BMvC-ST is specifically designed for clustering tasks in spatially resolved transcriptomics data.
 
 ### 3. Citation
 
