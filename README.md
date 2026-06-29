@@ -24,9 +24,10 @@ Illustration of balanced multi-view clustering (BMvC). The multi-view data are f
 
 Please cite our paper if you find the work useful:
 
-    @article{li2025balanced,
-    title={Balanced Multi-view Clustering},
-    author={Li, Zhenglai and Wang, Jun and Tang, Chang and Zhu, Xinzhong and Zhang, Wei and Liu, Xinwang},
-    journal={arXiv preprint arXiv:2501.02564},
-    year={2025}
-    }
+    @article{li2026balanced,
+  title={Balanced multi-view clustering},
+  author={Li, Zhenglai and Wang, Jun and Tang, Chang and Zhu, Xinzhong and Zhang, Wei and Liu, Xinwang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
