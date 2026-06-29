@@ -1,4 +1,4 @@
-# <p align=center>`Balanced Multi-view Clustering (Under Review)`</p>
+# <p align=center>`Balanced Multi-view Clustering (IEEE TPAMI 2026)`</p>
 
 > **Authors:**
 Zhenglai Li, Jun Wang, Chang Tang, Xinzhong Zhu, Wei Zhang, Xinwang Liu
